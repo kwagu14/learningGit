@@ -1,2 +1,2 @@
 # learningGit
-An exercise to learn the basics of GitHub (3.27.2020)
+An exercise to learn the basics of Git Bash and GitHub (3.27.2020)
