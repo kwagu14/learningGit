@@ -14,6 +14,16 @@ namespace LearningGit {
 			//creating a conflict and fixing
 			Console.WriteLine("K. Waguespack");
 			
+			KnockKnock();
+			
+			
+		}
+		
+		//adding a knock feature on a seperate branch
+		public static void KnockKnock() {
+			for(int i = 0; i < 5; i++){
+				Console.WriteLine("Knock");
+			}
 		}
 	}
 }
