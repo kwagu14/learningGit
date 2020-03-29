@@ -1,9 +1,12 @@
+using System;
 namespace LearningGit {
 	class Program {
-		static void main() {
+		public static void Main() {
 			
 			//empty C# program
-
+			
+			//printing a message
+			Console.WriteLine("Knock Knock!");
 			
 		}
 	}
