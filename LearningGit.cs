@@ -11,6 +11,9 @@ namespace LearningGit {
 			//responding from another file
 			Console.WriteLine("..Who's there?");
 			
+			//creating a conflict and fixing
+			Console.WriteLine("Karley M.");
+			
 		}
 	}
 }
