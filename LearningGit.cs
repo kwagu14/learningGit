@@ -5,7 +5,7 @@ namespace LearningGit {
 			
 			//empty C# program
 			
-			//printing a message
+			//printing a message, adding, merging, and pushing
 			Console.WriteLine("Knock Knock!");
 			
 			//responding from another file
