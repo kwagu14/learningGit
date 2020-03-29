@@ -12,7 +12,7 @@ namespace LearningGit {
 			Console.WriteLine("..Who's there?");
 			
 			//creating a conflict and fixing
-			Console.WriteLine("Karley M.");
+			Console.WriteLine("K. Waguespack");
 			
 		}
 	}
