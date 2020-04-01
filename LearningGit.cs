@@ -5,7 +5,7 @@ namespace LearningGit {
 			
 			//empty C# program
 			
-			//printing a message
+			//printing a message, adding, merging, and pushing
 			Console.WriteLine("Knock Knock!");
 			
 			//responding from another file
@@ -14,6 +14,16 @@ namespace LearningGit {
 			//creating a conflict and fixing
 			Console.WriteLine("K. Waguespack");
 			
+			KnockKnock();
+			
+			
+		}
+		
+		//adding a knock feature on a seperate branch
+		public static void KnockKnock() {
+			for(int i = 0; i < 5; i++){
+				Console.WriteLine("Knock");
+			}
 		}
 	}
 }
